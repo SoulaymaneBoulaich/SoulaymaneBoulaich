@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Soulaymane%20Boulaich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20AI%20Student&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Soulaymane%20Boulaich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%"/>
 
 <a href="https://github.com/SoulaymaneBoulaich">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Turning+raw+data+into+intelligent+systems;First-year+Big+Data+%26+AI+Engineering+Student;ENSA+T%C3%A9touan+%7C+Morocco" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Turning+raw+data+into+insights;Designing+robust+data+systems" alt="Typing animation"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=SoulaymaneBoulaich&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile views" />
@@ -14,32 +14,32 @@
 
 ## Overview
 
-Passionate **Data Engineer** with expertise in building scalable data infrastructure and ML pipelines. Currently a first-year engineering student at **ENSA Tétouan** specializing in **Big Data & Artificial Intelligence**.
+Passionate Data Engineer with expertise in building scalable data infrastructure and ML pipelines. Currently a first-year engineering student at ENSA Tétouan specializing in Big Data and Artificial Intelligence.
 
 | Area | Technologies |
 |------|---|
-| **Data Ingestion & APIs** | REST APIs, custom clients, event streaming |
-| **Storage & Databases** | PostgreSQL, MongoDB, BigQuery, Snowflake |
-| **Orchestration & Workflows** | Apache Airflow, workflow automation |
-| **Processing & Analytics** | Spark, Kafka, dbt, data modeling |
-| **Infrastructure** | Docker, containerization, cloud-native |
+| Data Ingestion & APIs | REST APIs, custom clients, event streaming |
+| Storage & Databases | PostgreSQL, MongoDB, BigQuery, Snowflake |
+| Orchestration & Workflows | Apache Airflow, workflow automation |
+| Processing & Analytics | Spark, Kafka, dbt, data modeling |
+| Infrastructure | Docker, containerization, cloud-native |
 
 ---
 
 ## Featured Project: nexagg
 
-**Multi-service Data Aggregation Platform**
+Multi-service Data Aggregation Platform
 
 A containerized, production-style platform demonstrating end-to-end data engineering:
 
 | Component | Details |
 |-----------|---------|
-| **Infrastructure** | Docker Compose stack with PostgreSQL, MongoDB |
-| **Data Sources** | Riot Games API (Match-v5), Chess.com archives |
-| **Database** | Typed, indexed, constrained PostgreSQL schema |
-| **Dataset** | Kaggle League of Legends historical data |
+| Infrastructure | Docker Compose stack with PostgreSQL, MongoDB |
+| Data Sources | Riot Games API (Match-v5), Chess.com archives |
+| Database | Typed, indexed, constrained PostgreSQL schema |
+| Dataset | Kaggle League of Legends historical data |
 
-```text
+```
 nexagg/
 ├── docker-compose.yml          # Multi-container orchestration
 ├── clients/
@@ -57,30 +57,30 @@ nexagg/
 <div align="center">
 
 **Data & Analytics**
-<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Machine Learning**
-<br/>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 **Cloud & Infrastructure**
-<br/>
+
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Streaming & Messaging**
-<br/>
+
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Modern APIs**
-<br/>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
@@ -90,9 +90,9 @@ nexagg/
 
 ## Current Learning
 
-- **Apache Airflow** — Advanced ETL & pipeline orchestration (IBM/Coursera certification track)
-- **Data Warehouse Design** — Dimensional modeling and schema optimization
-- **Distributed Systems** — Kafka, Spark, and stream processing patterns
+- Apache Airflow: Advanced ETL & pipeline orchestration (IBM/Coursera certification track)
+- Data Warehouse Design: Dimensional modeling and schema optimization
+- Distributed Systems: Kafka, Spark, and stream processing patterns
 
 ---
 
@@ -109,10 +109,10 @@ nexagg/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaymaneBoulaich&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaymaneBoulaich&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
 
 </div>
 
@@ -122,7 +122,7 @@ nexagg/
 <img src="https://raw.githubusercontent.com/SoulaymaneBoulaich/SoulaymaneBoulaich/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> This one is genuinely animated (SVG), but it needs a one-time GitHub Action — see setup note below.
+Note: The snake animation is an SVG that requires a GitHub Action to generate. See repository workflows if you want to set this up.
 
 ---
 
@@ -143,8 +143,8 @@ nexagg/
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://soulaymaneboulaich.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soulaiman.boulaich0@gmail.com)
 
-**Always happy to discuss data engineering, ML pipelines, and system design.**
+Always happy to discuss data engineering, ML pipelines, and system design.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
