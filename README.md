@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Soulaymane%20Boulaich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=3[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Soulaymane%20Boulaich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=3[...]" alt="Header"/>
 
 <a href="https://github.com/SoulaymaneBoulaich">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Turning+raw+d[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Turning+raw+d[...]" alt="Intro"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=SoulaymaneBoulaich&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile views"/>
@@ -104,30 +104,6 @@ nexagg/
 - Strong focus on data quality, schema design, and architectural patterns
 - Comfortable with containerized deployments and DevOps practices
 - Active learner pursuing industry certifications
-
----
-
-## Performance & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=SoulaymaneBoulaich&theme=tokyonight&layout=donut&hide_border=true&langs_count)
-
-</div>
-
----
-
-## GitHub Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoulaymaneBoulaich&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
