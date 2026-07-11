@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Soulaymane+%F0%9F%91%8B;Data+%26+Machine+Learning+Engineer+in+the+making;Big+Data+%26+AI+Engineering+Student+%40+ENSA+T%C3%A9touan;Building+pipelines%2C+APIs%2C+and+ML+systems" alt="Typing SVG" />
 </a>
 
+![Profile views](https://komarev.com/ghpvc/?username=SoulaymaneBoulaich&color=38BDF8&style=flat-square&label=Profile+Views)
 
 </div>
 
