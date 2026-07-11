@@ -111,11 +111,14 @@ nexagg/
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaymaneBoulaich&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaymaneBoulaich&layout=donut&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" width="400"/>
 
 </div>
 
