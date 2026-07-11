@@ -1,11 +1,11 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a574b944-0433-4d0c-9295-13eef60393a6" /><div align="center">
 
 <!-- Animated typing intro -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SoulaymaneBoulaich">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Soulaymane+%F0%9F%91%8B;Data+%26+Machine+Learning+Engineer+in+the+making;Big+Data+%26+AI+Engineering+Student+%40+ENSA+T%C3%A9touan;Building+pipelines%2C+APIs%2C+and+ML+systems" alt="Typing SVG" />
 </a>
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=38BDF8&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=SoulaymaneBoulaich&color=38BDF8&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -81,17 +81,8 @@ nexagg/
 ### 🐍 Contribution Animation
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SoulaymaneBoulaich/SoulaymaneBoulaich/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-> Set up automatically below in the "Activate the snake animation" section — it needs a small one-time GitHub Action config.
-
----
-
-### 🎮 Outside the Terminal
-
-- ⚔️ League of Legends player (`Sodba3#Sodob`, Asia) — treating rank climbing like an optimization problem
-- ♟️ Chess enthusiast — pattern recognition off the board too
 
 ---
 
@@ -100,7 +91,7 @@ nexagg/
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soulaymane-boulaich-b08ba532b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](soulaymaneboulaich.netlify.app)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soulaiman.boulaich0@gmail.com)
 
 </div>
