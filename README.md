@@ -115,7 +115,7 @@ nexagg/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoulaymaneBoulaich&theme=tokyonight&layout=donut&hide_border=true&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoulaymaneBoulaich&theme=tokyonight&layout=donut&hide_border=true&langs_count)
 
 </div>
 
