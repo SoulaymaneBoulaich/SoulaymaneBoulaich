@@ -111,11 +111,15 @@ nexagg/
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/SoulaymaneBoulaich)
+GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true)](https://github.com/SoulaymaneBoulaich)
+<img src="https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoulaymaneBoulaich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/SoulaymaneBoulaich)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
+
+Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaymaneBoulaich&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
 
 </div>
 
@@ -125,7 +129,7 @@ nexagg/
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoulaymaneBoulaich&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SoulaymaneBoulaich)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoulaymaneBoulaich&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
