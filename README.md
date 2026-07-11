@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Soulaymane%20Boulaich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Soulaymane%20Boulaich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
 
 <a href="https://github.com/SoulaymaneBoulaich">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Turning+raw+data+into+insights;Designing+robust+data+systems" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Turning+raw+data+into+insights;Data+Engineer+%26+ML+Enthusiast" alt="Typing SVG"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SoulaymaneBoulaich&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=SoulaymaneBoulaich&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -15,6 +15,8 @@
 ## Overview
 
 Passionate Data Engineer with expertise in building scalable data infrastructure and ML pipelines. Currently a first-year engineering student at ENSA Tétouan specializing in Big Data and Artificial Intelligence.
+
+Focused on designing robust data systems, optimizing ETL workflows, and developing end-to-end data solutions that transform raw data into actionable insights.
 
 | Area | Technologies |
 |------|---|
@@ -109,20 +111,23 @@ nexagg/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoulaymaneBoulaich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaymaneBoulaich&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoulaymaneBoulaich&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaymaneBoulaich&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
-### Contribution Snake
+---
+
+## GitHub Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SoulaymaneBoulaich/SoulaymaneBoulaich/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-Note: The snake animation is an SVG that requires a GitHub Action to generate. See repository workflows if you want to set this up.
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoulaymaneBoulaich&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
